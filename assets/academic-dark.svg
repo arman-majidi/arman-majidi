@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="264" viewBox="0 0 840 264" role="img" aria-label="Academic background: M.Sc. at Sharif University of Technology (GPA 18.11/20) and B.Sc. at University of Tehran (GPA 18.38/20), with selected graduate and undergraduate coursework grades.">
+  <title>Education &amp; Selected Coursework</title>
+  <style>.s{display:none}@media (prefers-reduced-motion:reduce){.m{display:none}.s{display:inline}}</style>
+
+  <rect x="0.75" y="0.75" width="838.5" height="262.5" rx="14" fill="#1e2029" stroke="#373b4b" stroke-width="1.4"/>
+
+  <!-- Left Column: Education Timeline -->
+  <rect x="18" y="18" width="394" height="228" rx="10" fill="#262834" stroke="#373b4b" stroke-width="1.1"/>
+  <text x="34" y="42" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="500" fill="#969cb3" letter-spacing="0.4">EDUCATION · TEHRAN → SHARIF</text>
+  <line x1="34" y1="52" x2="396" y2="52" stroke="#2b2e3c" stroke-width="1"/>
+
+  <!-- Timeline vertical spine -->
+  <line x1="44" y1="76" x2="44" y2="174" stroke="#373b4b" stroke-width="1.5"/>
+
+  <!-- Sharif M.Sc. -->
+  <circle cx="44" cy="76" r="4.5" fill="#b39df3"/>
+  <circle class="m" cx="44" cy="76" r="4.5" fill="none" stroke="#b39df3" stroke-width="1.2">
+    <animate attributeName="r" values="4.5;9.5" dur="2.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.65;0" dur="2.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="60" y="80" font-family="Georgia, 'Iowan Old Style', 'Times New Roman', serif" font-size="16" font-weight="600" fill="#f0f0f5">Sharif University of Technology</text>
+  <text x="60" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#c7cad8">M.Sc. Electrical Engineering · Telecom (Systems)</text>
+  <rect x="60" y="106" width="96" height="20" rx="5" fill="#2e2a42"/>
+  <text x="108" y="119.5" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="600" fill="#b39df3" text-anchor="middle">GPA 18.11 / 20</text>
+  <text x="166" y="119.5" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#969cb3">2025 – Present</text>
+  <text x="60" y="141" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#969cb3">Thesis: Blind Speech Separation (Dr. Babaie-Zadeh)</text>
+
+  <!-- UT B.Sc. -->
+  <circle cx="44" cy="174" r="4.5" fill="#262834" stroke="#969cb3" stroke-width="1.6"/>
+  <text x="60" y="178" font-family="Georgia, 'Iowan Old Style', 'Times New Roman', serif" font-size="16" font-weight="600" fill="#f0f0f5">University of Tehran</text>
+  <text x="60" y="196" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#c7cad8">B.Sc. Electrical Engineering · Telecommunications</text>
+  <rect x="60" y="204" width="96" height="20" rx="5" fill="#2e2a42"/>
+  <text x="108" y="217.5" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="600" fill="#b39df3" text-anchor="middle">GPA 18.38 / 20</text>
+  <text x="166" y="217.5" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#969cb3">2021 – 2025</text>
+
+  <!-- Right Column: Selected Coursework with Aligned Grade Bars -->
+  <rect x="426" y="18" width="396" height="228" rx="10" fill="#262834" stroke="#373b4b" stroke-width="1.1"/>
+  <text x="444" y="42" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="10.5" font-weight="500" fill="#969cb3" letter-spacing="0.4">SELECTED COURSEWORK</text>
+  <text x="812" y="42" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="10" fill="#969cb3" text-anchor="end">OUT OF 20</text>
+  <line x1="442" y1="52" x2="812" y2="52" stroke="#2b2e3c" stroke-width="1"/>
+  
+    <circle cx="446" cy="72" r="3" fill="#f0a375"/>
+    <text x="457" y="76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#c7cad8">Foundations of Computer Vision</text>
+    <rect x="674" y="69.5" width="68" height="5" rx="2.5" fill="#2e3140"/>
+    <rect x="674" y="69.5" width="68.0" height="5" rx="2.5" fill="#b39df3" opacity="0.86"/>
+    <text x="812" y="76" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="11.2" fill="#b39df3" text-anchor="end">20.0 / 20</text>
+    <circle cx="446" cy="96.5" r="3" fill="#78dce8"/>
+    <text x="457" y="100.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#c7cad8">Adaptive Filters</text>
+    <rect x="674" y="94" width="68" height="5" rx="2.5" fill="#2e3140"/>
+    <rect x="674" y="94" width="67.0" height="5" rx="2.5" fill="#b39df3" opacity="0.86"/>
+    <text x="812" y="100.5" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="11.2" fill="#b39df3" text-anchor="end">19.7 / 20</text>
+    <circle cx="446" cy="121" r="3" fill="#78dce8"/>
+    <text x="457" y="125" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#c7cad8">Blind Source Separation</text>
+    <rect x="674" y="118.5" width="68" height="5" rx="2.5" fill="#2e3140"/>
+    <rect x="674" y="118.5" width="65.5" height="5" rx="2.5" fill="#b39df3" opacity="0.86"/>
+    <text x="812" y="125" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="11.2" fill="#b39df3" text-anchor="end">19.25 / 20</text>
+    <circle cx="446" cy="145.5" r="3" fill="#b39df3"/>
+    <text x="457" y="149.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#c7cad8">Estimation Theory</text>
+    <rect x="674" y="143" width="68" height="5" rx="2.5" fill="#2e3140"/>
+    <rect x="674" y="143" width="63.6" height="5" rx="2.5" fill="#b39df3" opacity="0.86"/>
+    <text x="812" y="149.5" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="11.2" fill="#b39df3" text-anchor="end">18.7 / 20</text>
+    <circle cx="446" cy="170" r="3" fill="#f0a375"/>
+    <text x="457" y="174" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#c7cad8">Neural Networks &amp; Deep Learning</text>
+    <rect x="674" y="167.5" width="68" height="5" rx="2.5" fill="#2e3140"/>
+    <rect x="674" y="167.5" width="63.1" height="5" rx="2.5" fill="#b39df3" opacity="0.86"/>
+    <text x="812" y="174" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="11.2" fill="#b39df3" text-anchor="end">18.55 / 20</text>
+    <circle cx="446" cy="194.5" r="3" fill="#78dce8"/>
+    <text x="457" y="198.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#c7cad8">Graph Signal Processing</text>
+    <rect x="674" y="192" width="68" height="5" rx="2.5" fill="#2e3140"/>
+    <rect x="674" y="192" width="58.5" height="5" rx="2.5" fill="#b39df3" opacity="0.86"/>
+    <text x="812" y="198.5" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="11.2" fill="#b39df3" text-anchor="end">17.2 / 20</text>
+
+  <!-- Tiny domain legend with comfortable bottom breathing room -->
+  <line x1="442" y1="214" x2="812" y2="214" stroke="#2b2e3c" stroke-width="0.9"/>
+  <circle cx="446" cy="230" r="2.7" fill="#78dce8"/>
+  <text x="454" y="233" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="9.5" fill="#969cb3">Signal Processing</text>
+  <circle cx="576" cy="230" r="2.7" fill="#f0a375"/>
+  <text x="584" y="233" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="9.5" fill="#969cb3">ML / Vision</text>
+  <circle cx="672" cy="230" r="2.7" fill="#b39df3"/>
+  <text x="680" y="233" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="9.5" fill="#969cb3">Theory</text>
+</svg>
